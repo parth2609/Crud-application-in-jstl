@@ -1,2 +1,2 @@
 # Crud-application-in-jstl
-JAVA+JSP
+JAVA(Servlet)+JSP+HTML+XML
